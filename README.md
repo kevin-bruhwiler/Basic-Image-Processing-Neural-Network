@@ -1,6 +1,7 @@
 # Basic-Image-Processing-Neural-Network
+Kevin Bruhwiler
 
-This project was originally made in Octave, with the intent of teaching a neural network to blend a target image with whatever input image it was given.
+This project, written in R, was originally made in Octave with the intent of teaching a neural network to blend a target image with whatever input image it was given.
 
 The network takes an input image, titled "input.jpg" and an target image "target.jpg" 
 The two images should be the same size and in the RGB color format. 
